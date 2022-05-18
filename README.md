@@ -5,7 +5,7 @@
 
 <p><i> I'm SUBHAJIT CHAKRABORTY A Computer Science Graduate from University Of Calcutta,West Bengal. I'm a Tech Enthusiast, Frontend & Backend Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Node.js</code>,<code>MongoDB</code></li>
+<li> 🌱 <b>I’m currently working</b> : <code>Node.js</code>,<code>MongoDB</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Software Development</code>, <code>Git/Github</code>, <code>C</code>,<code>C++</code>,<code>PHP</code>,<code>Codeigniter</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://linkedin.com/drsubhajitchakraborty/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://drsubhajitchakraborty.github.io/portfolio/">https://drsubhajitchakraborty.github.io/portfolio/</a></code></li>
