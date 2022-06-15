@@ -31,7 +31,7 @@
 -->
 
 [![Twitter Badge](https://img.shields.io/badge/-@__drsubhajitchak__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/drsubhajitchak)](https://twitter.com/drsubhajitchak) 
-[![Linkedin Badge](https://img.shields.io/badge/-drsubhajitchak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inaayushi-mittal-309853196/)](https://www.linkedin.com/in/drsubhajitcahkraborty/)
+[![Linkedin Badge](https://img.shields.io/badge/-drsubhajitchak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inaayushi-mittal-309853196/)](https://www.linkedin.com/in/drsubhajitchakraborty/)
 
 [![Medium Badge](https://img.shields.io/badge/-@drsubhajitchakraborty-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@drsubhajitchakraborty/)](https://drsubhajitchakraborty.wordpress.com/)
 [![Gmail Badge](https://img.shields.io/badge/-dr.subhajitchakraborty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dr.subhajitchakraborty@gmail.com)](mailto:dr.subhajitcahkraborty@gmail.com)
