@@ -42,7 +42,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dr.subhajitchakraborty&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dr.subhajitchakraborty&theme=dark&hide_border=true"/></p> 
   -->
-<p align="center"><img src="https://metrics.lecoq.io/Aayushi-Mittal" alt="Github Metrics"></p>
+<p align="center"><img src="https://metrics.lecoq.io/dr.subhajitchakraborty" alt="Github Metrics"></p>
 <p align="center">See More: https://metrics.lecoq.io/about/</p>
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
