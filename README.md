@@ -35,7 +35,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-@drsubhajitchakraborty-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@drsubhajitchakraborty/)](https://drsubhajitchakraborty.wordpress.com/)
 [![Gmail Badge](https://img.shields.io/badge/-dr.subhajitchakraborty@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dr.subhajitchakraborty@gmail.com)](mailto:dr.subhajitcahkraborty@gmail.com)
-
+<!-- 
 <center>
 <h2 align="center">Git Hub Stats</h2>
   <!--
@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
