@@ -3,7 +3,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
 
-<p><i> I'm SUBHAJIT CHAKRABORTY.I am a pursuing master degree (Computer Science) from University Of Burdawan,West Bengal.I did Complete my graduation from university of calcutta.I also have a Diploma in Hardware & Networking.I have 6+ Years of experience in technology field.I'm a Tech Enthusiast,Backend Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm SUBHAJIT CHAKRABORTY.I do pursuing master degree (Computer Science) from University Of Burdawan,West Bengal.I did Complete my graduation from university of calcutta.I also have a Diploma in Hardware & Networking.I have 6+ Years of experience in technology field.I'm a Tech Enthusiast,Backend Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <ul>
 <li> 🌱 <b>I’m currently working</b> : <code>Node.js</code>,<code>MongoDB</code></li>
 <li> 💬 <b>Ask me about</b> : <code>Software Development</code>, <code>Git/Github</code>,<code>Jira</code, <code>C</code>,<code>C++</code>,<code>sql</code>,<code>Express</code>,,<code>DBMS</code>,<code>JavaScripts</code>,<code>JQuery</code></li>
